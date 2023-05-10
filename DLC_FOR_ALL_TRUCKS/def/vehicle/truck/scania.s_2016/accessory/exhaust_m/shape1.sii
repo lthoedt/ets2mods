@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : shape1S.volvo.fh16_2012.exhaust_m
+{
+	name: "Diva sds"
+	price: 13200
+	unlock: 0
+	icon: "exhaust_m/volvo_fh16_2012/shape1"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/volvo_fh16_2012/accessory/exhaust_m/shape1.pmd"
+	coll: "/vehicle/truck/volvo_fh16_2012/accessory/exhaust_m/shape1.pmc"
+}
+}
